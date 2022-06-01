@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 09:22:52</sys_created_on>
+        <sys_id>f2bb2f752fff41100a2ddeb6f699b6fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_f2bb2f752fff41100a2ddeb6f699b6fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 09:22:52</sys_updated_on>
+        <title><![CDATA[<p><strong><em>NEEDIT</em> PROPERTY CATEGORY</strong></p>
+<p><strong><a href="https://dev50126.service-now.com/sys_attachment.do?sys_id&#61;7dfb6f752fff41100a2ddeb6f699b67d&amp;sysparm_this_url&#61;sys_properties_category.do%3Fsysparm_nameofstack%3Decc4570e-602f-4202-9583-cdeadf134df0_bottomless%26sysparm_transaction_scope%3D6ead8e780f603200cd674f8ce1050ed1%26sysparm_isdevstudio%3Dtrue%26sys_id%3D-1%26sysparm_referring_url%3Dsys_properties_category.do%253Fsysparm_nameofstack%253Decc4570e-602f-4202-9583-cdeadf134df0_bottomless%2526sys_id%253D%2524sys_id_ui11%2526sysparm_transaction_scope%253D6ead8e780f603200cd674f8ce1050ed1%26sysparm_nofocus%3Dtrue%26sysparm_use_polaris%3Dfalse" rel="nofollow">Purpose.png</a><img style="align: baseline;" title="" src="sys_attachment.do?sys_id&#61;7dfb6f752fff41100a2ddeb6f699b67d" alt="" width="1280" height="1280" align="baseline" border="" hspace="" vspace="" /></strong></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=f2bb2f752fff41100a2ddeb6f699b6fa"/>
+</record_update>
